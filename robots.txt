@@ -1,0 +1,12 @@
+#
+# robots.txt for MCMS 2.0
+#
+#
+
+User-agent: *
+
+Disallow: /install/
+Disallow: /js/
+Disallow: /data/
+Disallow: /html/
+Disallow: /lib/
